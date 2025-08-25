@@ -32,11 +32,11 @@ The Power BI report includes the following analyses:
 8. **Regional Insights** – Sales by city.
 9.   
 
-## 📷 Report Snapshots  
-(Add screenshots of your report here)  
+## 📷 Report Snapshots    
 
-Example placeholders:  
-![Product Analysis](images/Top-Bottom-products.png)  
+ Product Analysis 
+![Product Analysis](images/Top-Bottom-products.png) 
+ Sales and Profit Overtime
 ![Comparing Sales and Profit Overtime](images/Req4.png)
 
 ## 🚀 How to Use  
