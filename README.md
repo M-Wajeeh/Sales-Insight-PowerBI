@@ -1,4 +1,4 @@
-images/overview.png
+![Dashboard Overview](images/overview.png)
 # Sales Data Analysis Report (Power BI)
 
 ## 📌 Project Title  
@@ -36,8 +36,8 @@ The Power BI report includes the following analyses:
 (Add screenshots of your report here)  
 
 Example placeholders:  
-![Dashboard Overview](images/dashboard_overview.png)  
-![Product Analysis](images/product_analysis.png)  
+![Dashboard Overview](images/Top-Bottom-Products.png)  
+![Product Analysis](images/Req4.png)  
 
 ## 🚀 How to Use  
 1. Download the `.pbix` file from this repository.  
