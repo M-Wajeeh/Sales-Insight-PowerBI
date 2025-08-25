@@ -1,3 +1,4 @@
+images/overview.png
 # Sales Data Analysis Report (Power BI)
 
 ## 📌 Project Title  
