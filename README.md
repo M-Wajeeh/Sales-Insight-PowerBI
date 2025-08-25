@@ -36,8 +36,8 @@ The Power BI report includes the following analyses:
 (Add screenshots of your report here)  
 
 Example placeholders:  
-![Dashboard Overview](images/Top-Bottom-Products.png)  
-![Product Analysis](images/Req4.png)  
+![Product Analysis](images/Top-Bottom-products.png)  
+![Comparing Sales and Profit Overtime](images/Req4.png)
 
 ## 🚀 How to Use  
 1. Download the `.pbix` file from this repository.  
